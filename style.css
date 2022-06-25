@@ -1,0 +1,31 @@
+*{
+  user-select: none;
+}
+body{
+  background: rgb(2,126,55);
+background: linear-gradient(90deg, rgba(2,126,55,1) 0%, rgba(252,252,252,1) 50%, rgba(249,255,0,1) 100%);
+}
+.avs{
+ display: flex;
+  justify-content: center;
+  align-items: center;
+  
+
+  
+}
+.avs1{
+  height: 300px;
+  width: 350px;
+  justify-content: center;
+}
+.caja3{
+  display: flex;
+  justify-content: end;
+  align-items: flex-end;
+}
+.img2{
+  height: 600px;
+}
+.img3{
+height: 500px;
+}
